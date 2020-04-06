@@ -1,0 +1,217 @@
+
+#img1{
+     margin-left:25px;
+   margin-top: 7px;
+     border-radius: 50%;
+     
+  
+}
+
+
+#img2{
+     margin-left:13px;
+   margin-top: -5px;
+     width:20px;
+     height: 25px;
+}
+
+
+#link1{
+   margin-left:110px;
+ margin-top:-25px;
+   font-size: 13px;
+   font-family: HelveticaNeue,'Noto Naskh Arabic UI',Arial,sans-serif;
+}
+
+#link2{
+  color: rgba(255, 255, 255, 0.87);
+   margin-left:150px;
+     margin-top:-5px;
+   font-size: 13px;
+   font-family: HelveticaNeue,'Noto Naskh Arabic UI',Arial,sans-serif;
+   display: inline-block;
+    line-height: 0px;
+    outline: none;
+    vertical-align: middle;
+    direction: ltr;
+}
+
+
+
+
+body{
+    background-color: black;
+}
+
+#imggoogle{
+  margin-left: 415px;
+ margin-top:10px;
+      
+}
+
+#search {
+    margin-left:890px;
+    margin-top:-25px;
+    background-color:#5d5d5d;
+    border-radius: 4px;
+}
+
+
+
+#topnav {
+    background-color: rgb(0, 0, 0);
+}
+
+#inputser{
+    width: 560px;
+    height:43px;
+    border-radius: 20px;
+    background-color: black;
+    margin-left:385px;
+    margin-top:20px;
+    color: white;
+    text-align: center;
+    border-top-color: #8c8989;
+   border-left-color:#8c8989;
+   border-right-color: #222223;
+    border-bottom-color:#222223;
+  
+    
+
+
+
+}
+#ii{
+
+    height: 24px;
+    width: 24px;
+    margin-left:395px;
+    margin-top:-33px;
+}
+#ia{
+
+    height: 24px;
+    width: 24px;
+    margin-left:435px;
+    margin-top:-27px;
+}
+
+#ib{
+ 
+   margin-left: 900px;
+   margin-top: -30px;
+
+}
+
+
+#input1{
+    background-color: black;
+    text-align: center;
+    color: white;
+    border-color:#333333;
+    width: 75px;
+    height: 37px;
+    font-family: HelveticaNeue,'Noto Naskh Arabic UI',Arial,sans-serif;
+    font-size: 14px;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-style: solid;
+    border-left-width: 1px;
+    margin-left:590px;
+    margin-top:30px;
+}
+
+
+#input2{
+    background-color: black;
+    text-align: center;
+    color: white;
+    border-color:#333333;
+    width: 90px;
+    height: 37px;
+    font-family: HelveticaNeue,'Noto Naskh Arabic UI',Arial,sans-serif;
+    font-size: 14px;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-style: solid;
+    border-left-width: 1px;
+    margin-left:10px;
+    margin-top:10px;
+}
+
+
+a:link{
+    color:blue;
+    size: 14px;
+    text-decoration: none;
+    
+
+}
+
+
+
+#SIvCob {
+    display: inline-block;
+    line-height: 28px;
+    text-align: -webkit-center;
+    color: rgb(255, 255, 255);
+    font-family: HelveticaNeue,'Noto Naskh Arabic UI',Arial,sans-serif;
+      margin-top:35px;
+}
+
+#as{
+    color:white;
+       font-family: HelveticaNeue,'Noto Naskh Arabic UI',Arial,sans-serif;
+     margin-left: 15px;
+
+}
+
+#aa{
+    color: white;
+ 
+    font-family: HelveticaNeue,'Noto Naskh Arabic UI',Arial,sans-serif;
+   margin-left: 19px;
+  
+}
+
+#ak{
+    color:white;
+     margin-left: 20px;
+      font-family: HelveticaNeue,'Noto Naskh Arabic UI',Arial,sans-serif;
+     
+}
+#ah{
+      color:white;
+    margin-left:1000px;
+      font-family: HelveticaNeue,'Noto Naskh Arabic UI',Arial,sans-serif;
+}
+
+#aw{
+       color:white;
+    margin-left:28px;
+ 
+      font-family: HelveticaNeue,'Noto Naskh Arabic UI',Arial,sans-serif;
+}
+
+#as{
+       color:white;
+    margin-left:-10px;
+ 
+      font-family: HelveticaNeue,'Noto Naskh Arabic UI',Arial,sans-serif;
+}
+
+
+#af{
+      color:white;
+    margin-left:800px;
+
+      font-family: HelveticaNeue,'Noto Naskh Arabic UI',Arial,sans-serif;
+}
